@@ -4,5 +4,10 @@ I am a student at Yalova University and Ecole 42. I'm new here and I'm always tr
 [![My Skills](https://skillicons.dev/icons?i=c,py,linux,git,)](https://skillicons.dev)
 ## 📫 How to Reach Me
 [![Connect](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aleynaaley)
- 
-[![aleynaaley's 42 stats](https://badge42.vercel.app/api/v2/cljpv5xq1001608mqvzllkarc/stats?cursusId=21&coalitionId=360)](https://github.com/JaeSeoKim/badge42)
+
+## 📌 GitHub Stats And Top Languages
+
+<p float="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=aleynaaley&show_icons=true&count_private=true&hide=contribs,issues" alt="aleynaaley's github stats" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleynaaley&layout=compact&hide=html,css" alt="My Top Langs" />
+</p>

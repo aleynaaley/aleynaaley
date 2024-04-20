@@ -12,4 +12,3 @@ I am a student at Yalova University and Ecole 42. I'm new here and I'm always tr
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleynaaley&layout=compact&hide=html,css" alt="My Top Langs" />
 </p>
 
-

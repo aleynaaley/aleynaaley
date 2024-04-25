@@ -5,6 +5,9 @@ I am a student at Yalova University and Ecole 42. I'm new here and I'm always tr
 ## 📫 How to Reach Me 
 [![Connect](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aleynaaley)
 
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=aleynaley&label=Profile%20views&color=0e75b6&style=flat"/> </p>
+
 ## 📌 GitHub Stats And Top Languages
 
 <p float="center">

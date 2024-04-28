@@ -15,3 +15,5 @@ I am a student at Yalova University and Ecole 42. I'm new here and I'm always tr
 </p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=aleynaaley&label=Profile%20views&color=0e75b6&style=flat"/> </p>
+
+![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)

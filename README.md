@@ -9,8 +9,15 @@ ___I am a student at Yalova University and Ecole 42. I'm new here and I'm always
 
 <p float="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=aleynaaley&show_icons=true&" alt="aleynaaley stats" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleynaaley&layout=compact&hide=html,css" alt="My Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=aleynaaley&show_icons=true&theme=dracula" alt="aleynaaley stats" />
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleynaaley&theme=dracula">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aleynaaley&theme=dracula">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aleynaaley&theme=dracula">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aleynaaley&theme=dracula">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aleynaaley&theme=dracula&utcOffset=8">
+
+
+
 </p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=aleynaaley&label=Profile%20views&color=0e75b6&style=flat"/> </p>

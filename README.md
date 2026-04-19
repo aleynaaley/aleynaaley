@@ -5,6 +5,9 @@ ___I am a student at Yalova University and Ecole 42. I'm new here and I'm always
 [![Connect](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aleynaaley)
 
 
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,js,react,nodejs,linux,git,flutter,dart,mysql,spring,postgres,postman,swift)](https://skillicons.dev)
+
 ## 📌 GitHub Stats And Top Languages
 
 <p float="center">

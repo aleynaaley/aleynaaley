@@ -63,7 +63,7 @@ open_to: ["collaborations", "networking", "sharing experiences"]
 
 **Tools & Environment**
 
-[![Tools](https://skillicons.dev/icons?i=linux,git,postman,docker)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=linux,git,postman)](https://skillicons.dev)
 
 </div>
 
